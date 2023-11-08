@@ -1,0 +1,35 @@
+body{
+    background-color: aquamarine
+}
+div{
+    width: 25%; height: 20px; border: solid black 2px;
+    margin:auto;
+    padding: 5%;
+    padding-right: 20
+    %;
+
+}
+
+h1
+{
+    color: coral;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+input{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+image{
+    display: flex;
+    justify-content:center;
+    justify-content: space-evenly;
+}
